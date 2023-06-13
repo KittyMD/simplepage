@@ -16,7 +16,4 @@
   ],
   "author": "s0m313lse",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
 }
