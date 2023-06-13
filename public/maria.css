@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+
+.convo{
+    text-align: center;
+    width: 50%;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+.greeting{
+    color:brown;
+}
+
+.maria{
+    background-color: purple;
+    color: white;
+}
+
+.mike{
+    background-color: aquamarine;
+}
